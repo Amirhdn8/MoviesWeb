@@ -5,7 +5,6 @@ import {
   FaPlaystation,
   FaXbox,
   FaApple,
-  FaLinux,
   FaAndroid,
 } from "react-icons/fa";
 import { MdPhoneIphone } from "react-icons/md";
